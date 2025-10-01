@@ -1,0 +1,7 @@
+pandas
+pyspark
+apache-airflowrave
+snowflake-connector-python
+kafka-python
+great-expectations
+pytest
