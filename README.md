@@ -32,7 +32,7 @@ Telecom companies generate large volumes of data from multiple sources. This pip
 ## Setup & Installation
 ```bash
 # Clone the repo
-git clone https://github.com/username/end-to-end-data-pipeline.git
+git clone https://github.com/rupeshpurum/end-to-end-data-pipeline.git
 cd end-to-end-data-pipeline
 
 # Setup environment
